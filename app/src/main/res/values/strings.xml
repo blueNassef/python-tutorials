@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Python Tutorials</string>
+
+    <string-array name="tuts">
+        <item>Introduction</item>
+        <item>Hello World</item>
+        <item>Basic syntax</item>
+        <item>Dictionaries</item>
+        <item>Tuples</item>
+        <item>Conditional IF</item>
+        <item>For loops</item>
+        <item>While loops</item>
+        <item>Pass, Break and Continue</item>
+        <item>User input</item>
+        <item>Exceptions</item>
+        <item>Functions</item>
+        <item>Reading from files</item>
+        <item>Writing to files</item>
+        <item>Copying files</item>
+        <item>Creating Classes</item>
+        <item>Objects</item>
+        <item>Introduction to Tkinter</item>
+    </string-array>
+
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="about_statement">This app aims to provide a clear introduction in <b><i>Python</i></b>. through short descriptions and code snippets. at the end of
+    every tutorial you will find a link to a video discussion <b><i>(in arabic)</i></b>.
+    feel free to leave any feedback and happy coding.</string>
+    <string name="contact_us">Contact us</string>
+    <string name="watch_arabic_video_tutorial">Watch Arabic video tutorial</string>
+    <string name="intro_1">Python is a general purpose, dynamic, interpreted programming language
+    with no type declaration. which is used for :\nWeb Development (Django)\nData Analysis (NumPy)\n
+    Machine Learning (TensorFlow)\nComputer Vision (OpenCV)\nIOT (Raspberry PI)\nGame
+    Development (PyGame)\nJVM (Jython)</string>
+    <string name="intro_2">Software\'s written in python:\nBitTorrent\nBlender\nCinema 4D\n
+    Dropbox\nOpenshot\nUbuntu software center\nCivilization IV\nBattlefield 2\nFreedom force</string>
+    <string name="intro_3">to install python in windows, visit (python.org) and choose
+    what\'s compatible with your OS. for linux users it\'s already installed. we are going
+    to use version 3.*.</string>
+    <string name="intro_4">you can use the <b><i>IDLE</i></b> which is a python shell (bundled
+        with the interpreter you have downloaded), or you can use netbeans or amy other IDE you like
+    which supports python.</string>
+    <string name="hello_1">If you are using windows open IDEL, if you are using linux open terminal and type python, you should end up with something like this.</string>
+    <string name="hello_2">to print strings (text) on the console we use the print function as follows</string>
+</resources>
